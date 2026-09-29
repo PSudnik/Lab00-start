@@ -16,7 +16,7 @@ This is your short verison to work on.
 
 Now, for the statistics!!!
 
-Read in some data.
+Read in some data?
 
 ```{r hotdogs}
 hotdogs=read.table("Hdcalsod.TXT", header=T)
